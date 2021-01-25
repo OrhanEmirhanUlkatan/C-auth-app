@@ -1,0 +1,68 @@
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\ApplicationInsights.config
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\csc.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\System.Collections.Immutable.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\vbc.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\VBCSCompiler.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\roslyn\VBCSCompiler.exe.config
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Kayit Ekrani.dll.config
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Kayit Ekrani.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Kayit Ekrani.pdb
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.Web.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.WindowsServer.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.ApplicationInsights.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.Web.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.WindowsServer.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.ApplicationInsights.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\obj\Debug\Kayit Ekrani.csprojResolveAssemblyReference.cache
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\obj\Debug\Kayit Ekrani.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\Kayit Ekrani\Kayit Ekrani\obj\Debug\Kayit Ekrani.pdb
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\ApplicationInsights.config
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\csc.exe
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\vbc.exe
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\VBCSCompiler.exe
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Kayit Ekrani.dll.config
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Kayit Ekrani.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Kayit Ekrani.pdb
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.Web.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.Web.xml
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\obj\Debug\Kayit Ekrani.csprojAssemblyReference.cache
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\obj\Debug\Kayit Ekrani.csproj.CoreCompileInputs.cache
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\obj\Debug\Kayit Ekrani.csproj.CopyComplete
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\obj\Debug\Kayit Ekrani.dll
+C:\Users\Speed\Desktop\Kayit Ekrani\Kayit Ekrani\Kayit Ekrani\obj\Debug\Kayit Ekrani.pdb
